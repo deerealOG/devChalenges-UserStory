@@ -40,10 +40,9 @@ https://github.com/deerealOG/devChalenges-UserStory/blob/master/2022-06-01-01-15
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+- You can find the demo of this project here https://startling-naiad-a7a114.netlify.app/
+- There was slight disparity in the values given on the figma file. I had to tweak the values a bit to get my solution.
+- I have learned how to create  a Team Page and make it responsive.
 
 ### Built With
 
