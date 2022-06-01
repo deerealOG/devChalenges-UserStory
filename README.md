@@ -71,5 +71,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - Website https://startling-naiad-a7a114.netlify.app
-- GitHub [deerealOG] https;//github.com/deerealOG
+- GitHub [deerealOG] https://github.com/deerealOG
 - Twitter [dereal_OG](https://twitter.com/dereal_OG)
