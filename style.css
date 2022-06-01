@@ -1,0 +1,601 @@
+header h1 {
+  position: absolute;
+  width: 278px;
+  height: 47px;
+  left: 243px;
+  top: 110px;
+
+  font-family: "PT Serif";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 48px;
+  letter-spacing: -0.045em;
+
+  color: #000000;
+}
+
+header h2 {
+  position: absolute;
+  width: 117px;
+  height: 27px;
+  left: 736px;
+  top: 110px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27px;
+
+  color: #000000;
+}
+
+header p {
+  position: absolute;
+  width: 439px;
+  height: 87px;
+  left: 736px;
+  top: 147px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+
+  color: #000000;
+}
+
+.photo1 p {
+  position: absolute;
+  width: 102px;
+  height: 16px;
+  left: 440px;
+  top: 360px;
+
+  font-family: "PT Serif";
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+
+  color: #000000;
+
+  transform: rotate(90deg);
+}
+.photo1 img {
+  position: absolute;
+  width: 238px;
+  height: 341px;
+  left: 240px;
+  top: 330px;
+
+  background: #c4c4c4;
+}
+
+.photo1 h3 {
+  position: absolute;
+  width: 117px;
+  height: 27px;
+  left: 240px;
+  top: 686px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27px;
+
+  color: #000000;
+}
+
+.photo2 p {
+  position: absolute;
+  width: 85px;
+  height: 16px;
+  left: 780px;
+  top: 450px;
+
+  font-family: "PT Serif";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+  text-transform: uppercase;
+  color: #000000;
+  transform: rotate(90deg);
+}
+
+.photo2 h3 {
+  position: absolute;
+  width: 128px;
+  height: 27px;
+  left: 571px;
+  top: 791px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27px;
+  /* identical to box height */
+
+  color: #000000;
+}
+.photo2 img {
+  position: absolute;
+  width: 238px;
+  height: 347px;
+  left: 571px;
+  top: 429px;
+
+  background: #c4c4c4;
+}
+
+.photo3 h3 {
+  position: absolute;
+  width: 70px;
+  height: 27px;
+  left: 901px;
+  top: 686px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27px;
+  color: #000000;
+}
+.photo3 p {
+  position: absolute;
+  width: 65px;
+  height: 16px;
+  left: 1120px;
+  top: 342px;
+
+  font-family: "PT Serif";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+
+  text-transform: uppercase;
+
+  color: #000000;
+
+  transform: rotate(90deg);
+}
+.photo3 img {
+  position: absolute;
+  width: 238px;
+  height: 341px;
+  left: 901px;
+  top: 330px;
+
+  background: #c4c4c4;
+}
+
+.photo4 h3 {
+  position: absolute;
+  width: 86px;
+  height: 27px;
+  left: 241px;
+  top: 1201px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27px;
+
+  color: #000000;
+}
+.photo4 img {
+  position: absolute;
+  width: 237px;
+  height: 341px;
+  left: 241px;
+  top: 845px;
+
+  background: #c4c4c4;
+}
+.photo4 p {
+  position: absolute;
+  width: 77px;
+  height: 16px;
+  left: 452px;
+  top: 862px;
+
+  font-family: "PT Serif";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+
+  text-transform: uppercase;
+
+  color: #000000;
+
+  transform: rotate(90deg);
+}
+
+.photo5 h3 {
+  position: absolute;
+  width: 124px;
+  height: 27px;
+  left: 571px;
+  top: 1306px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27px;
+  color: #000000;
+}
+.photo5 p {
+  position: absolute;
+  width: 68px;
+  height: 16px;
+  left: 790px;
+  top: 958px;
+
+  font-family: "PT Serif";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+
+  text-transform: uppercase;
+
+  color: #000000;
+
+  transform: rotate(90deg);
+}
+.photo5 img {
+  position: absolute;
+  width: 238px;
+  height: 347px;
+  left: 571px;
+  top: 944px;
+
+  background: #c4c4c4;
+}
+
+.photo6 h3 {
+  position: absolute;
+  width: 92px;
+  height: 27px;
+  left: 902px;
+  top: 1201px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27px;
+
+  color: #000000;
+}
+
+.photo6 p {
+  position: absolute;
+  width: 76px;
+  height: 16px;
+  left: 1115px;
+  top: 862px;
+
+  font-family: "PT Serif";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+
+  text-transform: uppercase;
+
+  color: #000000;
+
+  transform: rotate(90deg);
+}
+.photo6 img {
+  position: absolute;
+  width: 237px;
+  height: 341px;
+  left: 902px;
+  top: 845px;
+
+  background: #c4c4c4;
+}
+
+@media all and (max-width: 600px) {
+  header h1 {
+    position: absolute;
+    width: 278px;
+    height: 47px;
+    left: 12px;
+    top: 71px;
+
+    font-family: "PT Serif";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+    letter-spacing: -0.045em;
+
+    color: #000000;
+  }
+
+  header h2 {
+    position: absolute;
+    width: 117px;
+    height: 27px;
+    left: 12px;
+    top: 156px;
+
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    /* identical to box height */
+
+    text-transform: uppercase;
+
+    color: #000000;
+  }
+
+  header p {
+    position: absolute;
+    width: 333px;
+    height: 87px;
+    left: 12px;
+    top: 193px;
+
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+
+    color: #000000;
+  }
+
+  .photo1 p {
+    position: absolute;
+    width: 130px;
+    height: 11px;
+    left: 100px;
+    top: 380px;
+
+    font-family: "PT Serif";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 13px;
+    text-transform: uppercase;
+
+    color: #000000;
+  }
+  .photo1 img {
+    position: absolute;
+    width: 138.72px;
+    height: 209px;
+    left: 12px;
+    top: 330px;
+
+    background: #c4c4c4;
+  }
+
+  .photo1 h3 {
+    position: absolute;
+    width: 128px;
+    height: 18px;
+    left: 12px;
+    top: 536px;
+
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+
+    color: #000000;
+  }
+
+  .photo2 p {
+    position: absolute;
+    width: 122px;
+    height: 10px;
+    left: 294px;
+    top: 412px;
+
+    font-family: "PT Serif";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 13px;
+    text-transform: uppercase;
+
+    color: #000000;
+  }
+
+  .photo2 h3 {
+    position: absolute;
+    width: 141px;
+    height: 18px;
+    left: 200px;
+    top: 570px;
+
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+
+    color: #000000;
+  }
+  .photo2 img {
+    position: absolute;
+    width: 138.35px;
+    height: 209px;
+    left: 201.65px;
+    top: 366px;
+
+    background: #c4c4c4;
+  }
+
+  .photo3 h3 {
+    position: absolute;
+    width: 111px;
+    height: 14px;
+    left: 12px;
+    top: 834px;
+
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+
+    color: #000000;
+  }
+  .photo3 p {
+    position: absolute;
+    width: 69px;
+    height: 10px;
+    left: 130px;
+    top: 638px;
+
+    font-family: "PT Serif";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 13px;
+  }
+  .photo3 img {
+    position: absolute;
+    width: 139px;
+    height: 219.44px;
+    left: 12px;
+    top: 619px;
+
+    background: #c4c4c4;
+  }
+  .photo4 h3 {
+    position: absolute;
+    width: 109px;
+    height: 17px;
+    left: 200px;
+    top: 882px;
+
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+  }
+  .photo4 img {
+    position: absolute;
+    width: 139px;
+    height: 220.46px;
+    left: 200px;
+    top: 667px;
+
+    background: #c4c4c4;
+  }
+  .photo4 p {
+    position: absolute;
+    width: 77px;
+    height: 16px;
+    left: 314px;
+    top: 686px;
+
+    font-family: "PT Serif";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 13px;
+
+    text-transform: uppercase;
+
+    color: #000000;
+
+    transform: rotate(90deg);
+  }
+
+  .photo5 h3 {
+    position: absolute;
+    width: 97px;
+    height: 21px;
+    left: 12px;
+    top: 1152px;
+
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+
+    color: #000000;
+  }
+  .photo5 p {
+    position: absolute;
+    width: 57px;
+    height: 13px;
+    left: 136px;
+    top: 942px;
+
+    font-family: "PT Serif";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 13px;
+  }
+  .photo5 img {
+    position: absolute;
+    width: 139px;
+    height: 226px;
+    left: 12px;
+    top: 930px;
+
+    background: #c4c4c4;
+  }
+
+  .photo6 h3 {
+    position: absolute;
+    width: 72px;
+    height: 21px;
+    left: 200px;
+    top: 1194px;
+
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    color: #000000;
+  }
+
+  .photo6 p {
+    position: absolute;
+    width: 63px;
+    height: 13px;
+    left: 324px;
+    top: 994px;
+
+    font-family: "PT Serif";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 13px;
+  }
+  .photo6 img {
+    position: absolute;
+    width: 139.35px;
+    height: 220px;
+    left: 201px;
+    top: 979px;
+
+    background: #c4c4c4;
+  }
+}
