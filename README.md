@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](https://github.com/deerealOG/devChalenges-UserStory/blob/master/2022-06-01-01-15-46.gif)
+https://github.com/deerealOG/devChalenges-UserStory/blob/master/2022-06-01-01-15-46.gif
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
